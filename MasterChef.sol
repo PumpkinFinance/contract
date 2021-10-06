@@ -1,3 +1,8 @@
+//Telegram Chat: https://t.me/pumpkinfinancechat
+//Telegram Announcements: https://t.me/pumpkinfinance
+//Website: https://pumpkinfinance.io/
+//Twitter: https://twitter.com/pumpkin_finance
+
 pragma solidity >=0.6.0 <0.8.0;
 
 /**
